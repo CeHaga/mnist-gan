@@ -1,2 +1,2 @@
-# MNIST digits Generative Adversarial Network
-A GAN algorithm to generate handwritten numbers
+# MNIST GAN
+A Generative Adversarial Network algorithm to generate handwritten digits using MNIST database
